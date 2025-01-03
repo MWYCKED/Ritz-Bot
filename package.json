@@ -1,0 +1,19 @@
+{
+  "name": "ritzbot",
+  "version": "1.0.0",
+  "description": "new",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "react-styleguidist": "^13.1.3"
+  }
+}
